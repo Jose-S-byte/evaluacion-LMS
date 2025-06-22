@@ -7,7 +7,7 @@ Este repositorio contiene una reseña crítica comparativa sobre las plataformas
 Esta reseña crítica tuvo como propósito analizar comparativamente tres plataformas de gestión del aprendizaje (LMS, por sus siglas en inglés): Moodle, Blackboard y Canvas. A partir de criterios como funcionalidades, herramientas pedagógicas, interfaz, soporte técnico y experiencia del usuario, se evaluaron las principales ventajas y limitaciones de cada plataforma. El análisis permitió identificar que, aunque todas ofrecen soluciones efectivas para la enseñanza virtual, existen diferencias notables en la facilidad de uso, personalización y accesibilidad. Moodle destacó por su código abierto y flexibilidad, Blackboard por sus herramientas administrativas y de seguimiento, y Canvas por su diseño intuitivo y experiencia del usuario.
 
 ## 🔑 Palabras clave
-Canvas, Educación virtual, LMS, Moodle, Plataformas educativas.
+Canvas, Educación virtual,Blackboard, LMS, Moodle, Plataformas educativas.
 
 ---
 
